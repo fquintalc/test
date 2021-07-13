@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Challenge</string>
+
+    <!-- labels -->
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_syncrhonizing">Synchronizing</string>
+    <string name="label_logging_session">Logging session</string>
+
+    <!-- buttons -->
+    <string name="button_login">Login</string>
+
+    <!-- error -->
+    <string name="error_username_is_empty">Username is empty</string>
+    <string name="error_password_is_empty">Enter your password</string>
+    <string name="error_username_and_password_wrong">The username or password are wrong</string>
+    <string name="error_connect_to_server">Error to connect to the server, you valid your connection to Internet</string>
+
+
+
+</resources>

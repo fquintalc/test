@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Challenge</string>
+    <string name="label_username">Usuario</string>
+    <string name="label_password">Contraseña</string>
+    <string name="button_login">Iniciar Sesión</string>
+    <string name="error_username_is_empty">Escriba su usuario</string>
+    <string name="error_password_is_empty">Escriba su contraseña</string>
+    <string name="label_syncrhonizing">Sincronizando</string>
+    <string name="error_username_and_password_wrong">El usuario o password es incorrecto</string>
+    <string name="error_connect_to_server">Error al conectar al servidor, valide su conexión a internet</string>
+    <string name="label_logging_session">Iniciando sesión</string>
+</resources>

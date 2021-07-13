@@ -1,0 +1,5 @@
+rootProject.name = "FinerioTest"
+include ':app'
+include ':Model'
+include ':Domain'
+include ':UseCase'
